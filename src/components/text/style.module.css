@@ -1,0 +1,28 @@
+.root {
+  display: inline;
+  text-decoration: underline;
+}
+
+.small {
+  font-size: 0.8rem;
+}
+
+.medium {
+  font-size: 1rem;
+}
+
+.large {
+  font-size: 1.5rem;
+}
+
+.on-surfase {
+  color: var(--on-surface);
+}
+
+.primary {
+  color: var(--primary);
+}
+
+.error {
+  color: var(--error);
+}
