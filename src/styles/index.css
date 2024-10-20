@@ -23,6 +23,7 @@
 	/* Border Colors */
 	--border-light: #4D87BD;
 	--border-dark: #424242;
+  --color-border: #424242;
 }
 
 * {
